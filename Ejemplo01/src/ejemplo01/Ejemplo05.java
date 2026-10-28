@@ -14,8 +14,8 @@ package ejemplo01;
 public class Ejemplo05 {
     public static void main(String[] args) {
         // Secuencia de escape \n y \t
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
+        String nombreEstudiante = "David Eduardo";
+        String apellidoEstudiante = "Jaramillo Moncada";
         int nacimiento = 1983;
         
         /*System.out.println(nombreEstudiante+"\n"+apellidoEstudiante+ "\n"+ 
@@ -30,3 +30,4 @@ public class Ejemplo05 {
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
     }
 }
+// \t da un tab al texto, sirve para dar formato
