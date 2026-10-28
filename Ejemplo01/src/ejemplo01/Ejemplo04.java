@@ -20,3 +20,5 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
+// System.out.print sirve para mostrar la informacion en una sola linea
+// A diferencia de System.out.println, el cual muestra la informacion con saltos, como si hubiera un \n
