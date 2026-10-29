@@ -41,7 +41,7 @@ public class Ejemplo1 {
                 notaAsignatura1,
                 nombreAsignatura2,
                 notaAsignatura2);
-   
+        
     }
     
 }
